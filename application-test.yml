@@ -1,3 +1,5 @@
 server:
   port: 18981
 
+config:
+  info: testInfo
