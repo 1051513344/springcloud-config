@@ -2,5 +2,5 @@ server:
   port: 8084
 
 config:
-  info: devInfo
+  info: devInfo-new
 
